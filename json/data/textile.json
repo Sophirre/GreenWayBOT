@@ -1,0 +1,704 @@
+[
+    {
+        "id": 6918,
+        "name": "Губка «Инволвер» Medium  AQUAmagic Ultra c повышенной влагоемкостью",
+        "price": 690.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02293/1.jpg"
+    },
+    {
+        "id": 6488,
+        "name": "Набор для чистки сложных загрязнений HOME SET Heavy-duty Сleaning Set",
+        "price": 1500.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06061/IMG_0726.jpg"
+    },
+    {
+        "id": 6498,
+        "name": "Набор для кухни HOME SET Kitchen Cleaning",
+        "price": 1400.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06063/IMG_0721.jpg"
+    },
+    {
+        "id": 6928,
+        "name": "Губка «Инволвер» Large AQUAmagic Ultra c высокой влагоемкостью",
+        "price": 750.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02294/1.jpg"
+    },
+    {
+        "id": 6508,
+        "name": "Набор для общей уборки HOME SET General Cleaning",
+        "price": 1500.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06062/IMG_0723.jpg"
+    },
+    {
+        "id": 6938,
+        "name": "Спонж тройной AQUAmagic Twist для удаления сложных загрязнений",
+        "price": 540.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02295/1.jpg"
+    },
+    {
+        "id": 6518,
+        "name": "Набор для уборки ванной HOME SET Bathroom Cleaning",
+        "price": 1500.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06064/IMG_1347.jpg"
+    },
+    {
+        "id": 6948,
+        "name": "Варежка-мочалка AQUAmagic Sport из микроволокна, бежевая",
+        "price": 990.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02296/1.jpg"
+    },
+    {
+        "id": 6638,
+        "name": "Набор для ухода за автомобилем AUTO SET Universal",
+        "price": 1800.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06076/IMG_1349.jpg"
+    },
+    {
+        "id": 6648,
+        "name": "Набор для ухода за стеклом и фарами AUTO SET Glass & Headlights",
+        "price": 1000.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06077/IMG_1355.jpg"
+    },
+    {
+        "id": 5898,
+        "name": "Файбер для мытья посуды HOME S1, зеленый",
+        "price": 245.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06001/IMG_0040d.jpg"
+    },
+    {
+        "id": 5958,
+        "name": "Файбер для стекла HOME P1, зеленый",
+        "price": 410.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06007/IMG_029dd8.jpg"
+    },
+    {
+        "id": 6018,
+        "name": "Файбер универсальный HOME A1, зеленый",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06013/IMG_0354d.jpg"
+    },
+    {
+        "id": 6068,
+        "name": "Диск Инволвер HOME S2, зеленый",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06019/IMG_001dd6_MOsdAgl.jpg"
+    },
+    {
+        "id": 6128,
+        "name": "Файбер ребристый HOME S3, зеленый",
+        "price": 550.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06025/IMG_0358d.jpg"
+    },
+    {
+        "id": 6188,
+        "name": "Скрабер Твист HOME S4, зеленый",
+        "price": 510.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06031/IMG_0379d.jpg"
+    },
+    {
+        "id": 6238,
+        "name": "Файбер вельветовый HOME S5, зеленый",
+        "price": 580.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06036/IMG_0391%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg"
+    },
+    {
+        "id": 6268,
+        "name": "Спонж Сплиттер HOME S6 двусторонний  для очищения и впитывания, зеленый",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06039/IMG_0422d.jpg"
+    },
+    {
+        "id": 6298,
+        "name": "Файбер Инволвер HOME S7, зеленый",
+        "price": 780.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06042/IMG_0438d.jpg"
+    },
+    {
+        "id": 6328,
+        "name": "Губка Инволвер HOME S8, зеленая",
+        "price": 690.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06045/IMG_0470d.jpg"
+    },
+    {
+        "id": 6358,
+        "name": "Варежка универсальная HOME A2, зеленая",
+        "price": 720.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06048/IMG_0482d.jpg"
+    },
+    {
+        "id": 6378,
+        "name": "Файбер для кухни HOME А3, зеленый",
+        "price": 830.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06050/IMG_0488d.jpg"
+    },
+    {
+        "id": 6398,
+        "name": "Варежка Твист HOME S9, зеленая",
+        "price": 990.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06052/IMG_0492d.jpg"
+    },
+    {
+        "id": 6408,
+        "name": "Варежка Инволвер HOME S10, зеленая",
+        "price": 950.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06053/IMG_0494d.jpg"
+    },
+    {
+        "id": 6418,
+        "name": "Файбер полирующий HOME P2, зеленый",
+        "price": 370.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06054/IMG_0503d.jpg"
+    },
+    {
+        "id": 6428,
+        "name": "Спонж Инволвер HOME S11, зеленый",
+        "price": 780.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06055/IMG_0514d.jpg"
+    },
+    {
+        "id": 6438,
+        "name": "Файбер Твист HOME S12, зеленый",
+        "price": 540.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06056/d.jpg"
+    },
+    {
+        "id": 6448,
+        "name": "Файбер Твист для пола HOME S13, зеленый",
+        "price": 790.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06057/IMG_0525d.jpg"
+    },
+    {
+        "id": 6458,
+        "name": "Спонж Твист HOME S14, зеленый",
+        "price": 540.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06058/IMG_0523d.jpg"
+    },
+    {
+        "id": 6468,
+        "name": "Файбер универсальный HOME A4, зеленый",
+        "price": 450.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06059/IMG_0517d.jpg"
+    },
+    {
+        "id": 6478,
+        "name": "Губка для мытья посуды HOME S15, зеленая",
+        "price": 290.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06060/IMG_0527%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg"
+    },
+    {
+        "id": 6528,
+        "name": "Файбер для оптики HOME Р3, зеленый",
+        "price": 140.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06065/IMG_9998%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg"
+    },
+    {
+        "id": 6558,
+        "name": "Файбер для экранов HOME Р4, серо-зеленый",
+        "price": 210.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06068/IMG_9999d.jpg"
+    },
+    {
+        "id": 6578,
+        "name": "Автополотенце для влажной уборки AUTO S16, зеленое",
+        "price": 1730.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06070/IMG_0752d.jpg"
+    },
+    {
+        "id": 6598,
+        "name": "Автополотенце для сухой уборки AUTO A5,  серо-зеленое",
+        "price": 830.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06072/IMG_0279d_gPLh5yO.jpg"
+    },
+    {
+        "id": 6618,
+        "name": "Файбер для уборки AUTO S17, серый",
+        "price": 410.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06074/IMG_1110_rc0yIU6.jpg"
+    },
+    {
+        "id": 6628,
+        "name": "Варежка универсальная AUTO А6, серо-зеленая",
+        "price": 700.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06075/IMG_0741d_9k4oljE.jpg"
+    },
+    {
+        "id": 6658,
+        "name": "Файбер косметический CARE 1, зеленый",
+        "price": 250.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06078/IMG_0552d.jpg"
+    },
+    {
+        "id": 6708,
+        "name": "Спонж для чистки зубов CARE 2",
+        "price": 420.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06083/IMG_0557d.jpg"
+    },
+    {
+        "id": 7118,
+        "name": "Спонж для пилинга CARE 3",
+        "price": 420.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06084/IMG_0550d.jpg"
+    },
+    {
+        "id": 6718,
+        "name": "Спонж для демакияжа CARE 4",
+        "price": 420.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06085/IMG_0556d.jpg"
+    },
+    {
+        "id": 6728,
+        "name": "Варежка-скраб для душа CARE 5, серая",
+        "price": 870.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06086/IMG_0771%20(1).jpg"
+    },
+    {
+        "id": 6748,
+        "name": "Варежка мягкая CARE 6, коралловая",
+        "price": 830.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/green-fiber/06090/IMG_0558%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8Fdddd%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Салфетка универсальная AQUAmagic Ujut, оранжевая, 40 х 30 см",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02251/IMG_9974.jpg"
+    },
+    {
+        "id": 113,
+        "name": "Салфетка универсальная AQUAmagic Ujut, бирюзовая, 40 х 30 см",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02252/IMG_9976_NYc00t4.jpg"
+    },
+    {
+        "id": 118,
+        "name": "Салфетка гладкая для стекла AQUAmagic Ujut, оранжевая, 40 х 30 см",
+        "price": 410.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02253/IMG_9794.jpg"
+    },
+    {
+        "id": 123,
+        "name": "Салфетка двусторонняя для мытья посуды AQUAmagic Absolute, 20 х 16 см",
+        "price": 245.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02254/IMG_9796.jpg"
+    },
+    {
+        "id": 128,
+        "name": "Губка «Инволвер» для удаления стойких пятен AQUAmagic Absolute, желтая, 15 х 7 см",
+        "price": 690.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02255/IMG_9899.jpg"
+    },
+    {
+        "id": 133,
+        "name": "Губка «Инволвер» для удаления стойких пятен AQUAmagic Absolute, зеленая, 15 х 7 см",
+        "price": 690.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02256/IMG_9912.jpg"
+    },
+    {
+        "id": 138,
+        "name": "Салфетка AQUAmagic Absolute в рубчик, 30 х 30 см",
+        "price": 550.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02257/IMG_9788.jpg"
+    },
+    {
+        "id": 143,
+        "name": "Варежка «Инволвер» для удаления стойких загрязнений AQUAmagic Ultra, 23 х 21 см",
+        "price": 950.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02258/IMG_9855.jpg"
+    },
+    {
+        "id": 148,
+        "name": "Салфетка двусторонняя «Инволвер» AQUAmagic Ultra для очищения ультрасильных загрязнений, 30 х 23 см",
+        "price": 780.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02259/IMG_9971.jpg"
+    },
+    {
+        "id": 153,
+        "name": "Спонж «Инволвер» тройной AQUAmagic Ultra для удаления стойких загрязнений, 26,5 х 15,5 см",
+        "price": 780.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02260/IMG_9954.jpg"
+    },
+    {
+        "id": 158,
+        "name": "Салфетка «Скрабер» для удаления стойких и въевшихся загрязнений AQUAmagic Twist, 32 х 30 см",
+        "price": 510.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02261/IMG_9972.jpg"
+    },
+    {
+        "id": 163,
+        "name": "Варежка для удаления сложных загрязнений AQUAmagic Twist, 25 х 19 см",
+        "price": 990.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02262/IMG_9902.jpg"
+    },
+    {
+        "id": 178,
+        "name": "Салфетка деликатная AQUAmagic Ujut для ухода за украшениями, ЖК-дисплеями и растениями, 40 х 30 см",
+        "price": 370.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02265/IMG_9802.jpg"
+    },
+    {
+        "id": 183,
+        "name": "Варежка с длинным ворсом для сухой уборки пыли AQUAmagic Ujut, 28 х 20 см",
+        "price": 720.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02266/IMG_9897.jpg"
+    },
+    {
+        "id": 193,
+        "name": "Салфетка для очков с антистатическим эффектом AQUAmagic Look, 15 х 15 см",
+        "price": 110.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02269/IMG_9763.jpg"
+    },
+    {
+        "id": 208,
+        "name": "Салфетка вельветовая AQUAmagic Absolute для посуды и кухонных поверхностей, 40 х 40 см",
+        "price": 580.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02272/IMG_9975.jpg"
+    },
+    {
+        "id": 213,
+        "name": "Спонж для кухни AQUAmagic Splitter для варочных панелей, духовых шкафов, микроволновок, 22 х 18 см",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02273/IMG_9888.jpg"
+    },
+    {
+        "id": 218,
+        "name": "Диск «Инволвер» для уборки малодоступных мест AQUAmagic Ultra, 12 см",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02274/IMG_9915.jpg"
+    },
+    {
+        "id": 88,
+        "name": "Салфетка косметическая AQUAmagic Nega, голубая, 20 х 20 см",
+        "price": 250.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02201/IMG_9784.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Салфетка косметическая AQUAmagic Nega, бежевая, 20 х 20 см",
+        "price": 250.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02221/IMG_9767.jpg"
+    },
+    {
+        "id": 93,
+        "name": "Варежка-мочалка для аккуратного очищения кожи AQUAmagic Nega, 22 х 14 см",
+        "price": 750.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02202/IMG_9886.jpg"
+    },
+    {
+        "id": 98,
+        "name": "Спонжи для чистки зубов AQUAmagic Laska, 2шт.",
+        "price": 420.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02203/IMG_9781.jpg"
+    },
+    {
+        "id": 168,
+        "name": "Спонж для демакияжа AQUAmagic Laska, 10 х 6 см",
+        "price": 420.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02263/IMG_9761.jpg"
+    },
+    {
+        "id": 173,
+        "name": "Варежка-спонж двусторонняя AQUAmagic Laska для очищения и скрабирования, 15 х 12 см",
+        "price": 510.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02264/IMG_9800.jpg"
+    },
+    {
+        "id": 223,
+        "name": "Автополотенце AQUAmagic Luxe двустороннее, 40 х 30 см",
+        "price": 830.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02275/IMG_9949.jpg"
+    },
+    {
+        "id": 233,
+        "name": "Салфетка для очков AQUAmagic Optics, венге, 15 х 15 см",
+        "price": 140.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": false,
+        "image": "https://media.greenwaystart.com/aquamagic/02277/IMG_9755.jpg"
+    },
+    {
+        "id": 238,
+        "name": "Спонж для пилинга кожи лица, шеи и декольте AQUAmagic Laska, 8 х 4,5 см",
+        "price": 420.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02278/IMG_9760.jpg"
+    },
+    {
+        "id": 1218,
+        "name": "Салфетка универсальная AQUAmagic Ujut, бежевая, 40 х 30 см",
+        "price": 495.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02283/IMG_9973.jpg"
+    },
+    {
+        "id": 1228,
+        "name": "Салфетка рельефная AQUAmagic Absolute, коричневая, 30 х 30 см",
+        "price": 580.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": false,
+        "image": "https://media.greenwaystart.com/aquamagic/02285/IMG_9785.jpg"
+    },
+    {
+        "id": 1248,
+        "name": "Варежка для очищения лица, шеи и зоны декольте AQUAmagic Laska, розовая, 21 х 9 см",
+        "price": 830.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02290/IMG_9792.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Набор для ухода за кожей лица, шеи и декольте AQUAmagic Laska Mini, 3 предмета",
+        "price": 1320.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02116/IMG_9941.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Полотенце автомобильное AQUAmagic Luxe, 70 х 55 см",
+        "price": 1730.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02125/IMG_9944.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Набор  для удаления ультрасильных загрязнений AQUAmagic Ultra Two, 3 предмета",
+        "price": 2220.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02119EU/IMG_9947.jpg"
+    },
+    {
+        "id": 188,
+        "name": "Набор для ухода за кухней AQUAmagic Absolute Mini, 3 предмета",
+        "price": 1650.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02129/IMG_9939.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Набор для удаления ультрасильных загрязнений AQUAmagic Ultra One, 4 предмета",
+        "price": 2630.0,
+        "without_discount": null,
+        "discount": 0,
+        "can_order": true,
+        "image": "https://media.greenwaystart.com/aquamagic/02118/IMG_9924.jpg"
+    }
+]

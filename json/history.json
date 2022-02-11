@@ -1,0 +1,2215 @@
+{
+    "update_id": 571586557,
+    "message": {
+        "message_id": 164,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809025,
+        "text": {
+    "update_id": 571586557,
+    "message": {
+        "message_id": 164,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809025,
+        "text": {
+    "update_id": 571586557,
+    "message": {
+        "message_id": 164,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809025,
+        "text": {
+    "update_id": 571586557,
+    "message": {
+        "message_id": 164,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809025,
+        "text": {
+    "update_id": 571586558,
+    "message": {
+        "message_id": 165,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809080,
+        "text": "I love you!"
+    }
+}
+{
+    "update_id": 571586559,
+    "message": {
+        "message_id": 166,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809129,
+        "text": "Qwe"
+    }
+}
+{
+    "update_id": 571586560,
+    "message": {
+        "message_id": 167,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809191,
+        "text": "Rer"
+    }
+}
+{
+    "update_id": 571586561,
+    "message": {
+        "message_id": 168,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809205,
+        "text": "Dududid"
+    }
+}
+{
+    "update_id": 571586562,
+    "message": {
+        "message_id": 169,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809254,
+        "text": "Ffdj"
+    }
+}
+{
+    "update_id": 571586563,
+    "message": {
+        "message_id": 175,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809306,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586564,
+    "message": {
+        "message_id": 177,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809904,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586565,
+    "message": {
+        "message_id": 180,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809926,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586566,
+    "message": {
+        "message_id": 182,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809930,
+        "text": "start"
+    }
+}
+{
+    "update_id": 571586567,
+    "message": {
+        "message_id": 184,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643809951,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586568,
+    "message": {
+        "message_id": 186,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643811830,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586569,
+    "message": {
+        "message_id": 188,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643811868,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586570,
+    "message": {
+        "message_id": 190,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643811900,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586571,
+    "message": {
+        "message_id": 191,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643816413,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586572,
+    "message": {
+        "message_id": 194,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643816495,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586573,
+    "message": {
+        "message_id": 196,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643816512,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586574,
+    "message": {
+        "message_id": 198,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643816554,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586575,
+    "message": {
+        "message_id": 200,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643816568,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586576,
+    "message": {
+        "message_id": 202,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643816591,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586577,
+    "message": {
+        "message_id": 204,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817078,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586578,
+    "message": {
+        "message_id": 206,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817104,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586579,
+    "message": {
+        "message_id": 208,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817329,
+        "text": "<b>Вас приветствует MyGreenWayShop</b>"
+    }
+}
+{
+    "update_id": 571586580,
+    "message": {
+        "message_id": 210,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817416,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586581,
+    "message": {
+        "message_id": 212,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817451,
+        "text": "Вас приветствует MyGreenWayShop",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 31,
+                "type": "bold"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586582,
+    "message": {
+        "message_id": 214,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817488,
+        "text": "Вас приветствует MyGreenWayShop",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 31,
+                "type": "bold"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586583,
+    "message": {
+        "message_id": 216,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817524,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586584,
+    "message": {
+        "message_id": 218,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643817949,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586585,
+    "message": {
+        "message_id": 220,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818057,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586586,
+    "message": {
+        "message_id": 222,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818116,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586587,
+    "message": {
+        "message_id": 224,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818213,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586588,
+    "message": {
+        "message_id": 226,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818271,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586589,
+    "message": {
+        "message_id": 228,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818309,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586590,
+    "message": {
+        "message_id": 230,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818325,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586591,
+    "message": {
+        "message_id": 232,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818345,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586592,
+    "message": {
+        "message_id": 234,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818561,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586593,
+    "message": {
+        "message_id": 236,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818887,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586594,
+    "message": {
+        "message_id": 238,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643818918,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586595,
+    "message": {
+        "message_id": 240,
+        "from": {
+            "id": 655159298,
+            "is_bot": false,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 655159298,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "type": "private"
+        },
+        "date": 1643819293,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586596,
+    "message": {
+        "message_id": 242,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820016,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586597,
+    "message": {
+        "message_id": 243,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820071,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586598,
+    "message": {
+        "message_id": 244,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820147,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586599,
+    "message": {
+        "message_id": 245,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820204,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586600,
+    "message": {
+        "message_id": 247,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820321,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586601,
+    "message": {
+        "message_id": 249,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820352,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586602,
+    "message": {
+        "message_id": 251,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820369,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586603,
+    "message": {
+        "message_id": 253,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820467,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586604,
+    "message": {
+        "message_id": 255,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820477,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586605,
+    "message": {
+        "message_id": 257,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820519,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586606,
+    "message": {
+        "message_id": 259,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820575,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586607,
+    "message": {
+        "message_id": 261,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820648,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586608,
+    "message": {
+        "message_id": 263,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820664,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586609,
+    "message": {
+        "message_id": 265,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820672,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586610,
+    "message": {
+        "message_id": 267,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820686,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586611,
+    "message": {
+        "message_id": 269,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820707,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586612,
+    "message": {
+        "message_id": 271,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820791,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586613,
+    "message": {
+        "message_id": 273,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820808,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586614,
+    "message": {
+        "message_id": 275,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643820856,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586615,
+    "message": {
+        "message_id": 277,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643821643,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586616,
+    "message": {
+        "message_id": 279,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643821861,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586617,
+    "message": {
+        "message_id": 281,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643821964,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586618,
+    "message": {
+        "message_id": 283,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643822188,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586619,
+    "message": {
+        "message_id": 285,
+        "from": {
+            "id": 655159298,
+            "is_bot": false,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 655159298,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "type": "private"
+        },
+        "date": 1643827731,
+        "text": "Start"
+    }
+}
+{
+    "update_id": 571586620,
+    "message": {
+        "message_id": 286,
+        "from": {
+            "id": 655159298,
+            "is_bot": false,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 655159298,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "type": "private"
+        },
+        "date": 1643827746,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586621,
+    "message": {
+        "message_id": 288,
+        "from": {
+            "id": 655159298,
+            "is_bot": false,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 655159298,
+            "first_name": "V",
+            "last_name": "O",
+            "username": "sorcapp",
+            "type": "private"
+        },
+        "date": 1643827794,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586622,
+    "message": {
+        "message_id": 290,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643831984,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586623,
+    "message": {
+        "message_id": 292,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643880590,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586624,
+    "message": {
+        "message_id": 294,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643881277,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586625,
+    "message": {
+        "message_id": 296,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643881293,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586626,
+    "message": {
+        "message_id": 298,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643881313,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586627,
+    "message": {
+        "message_id": 300,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643885598,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586628,
+    "message": {
+        "message_id": 302,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1643886724,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586629,
+    "message": {
+        "message_id": 304,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644232630,
+        "text": "dsa"
+    }
+}
+{
+    "update_id": 571586630,
+    "message": {
+        "message_id": 305,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644232700,
+        "text": "vxc"
+    }
+}
+{
+    "update_id": 571586631,
+    "message": {
+        "message_id": 308,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644233991,
+        "text": "test"
+    }
+}
+{
+    "update_id": 571586632,
+    "message": {
+        "message_id": 310,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644234018,
+        "text": "text"
+    }
+}
+{
+    "update_id": 571586633,
+    "message": {
+        "message_id": 312,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644234040,
+        "text": "text"
+    }
+}
+{
+    "update_id": 571586634,
+    "message": {
+        "message_id": 314,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644234079,
+        "text": "text"
+    }
+}
+{
+    "update_id": 571586635,
+    "message": {
+        "message_id": 316,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644234152,
+        "text": "text"
+    }
+}
+{
+    "update_id": 571586636,
+    "message": {
+        "message_id": 323,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644305938,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 571586637,
+    "message": {
+        "message_id": 326,
+        "from": {
+            "id": 457296169,
+            "is_bot": false,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 457296169,
+            "first_name": "Серёжа",
+            "username": "SophireS",
+            "type": "private"
+        },
+        "date": 1644305991,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
